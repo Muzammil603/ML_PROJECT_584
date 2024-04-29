@@ -7,7 +7,7 @@ This project aims to predict user churn for Spotify, a music streaming service, 
 ## Dataset
 
 Dataset link
-https://drive.google.com/file/d/1rOu5MD-EIO5b1KyHV6iRF-o6Ai5th6Mg/view?usp=drive_link
+[https://drive.google.com/file/d/1rOu5MD-EIO5b1KyHV6iRF-o6Ai5th6Mg/view?usp=drive_link](https://drive.google.com/file/d/1rOu5MD-EIO5b1KyHV6iRF-o6Ai5th6Mg/view?usp=sharing)
 
 
 The dataset used in this project is a JSON file containing user interaction data with Spotify. It includes information about user actions, demographics, and historical data.

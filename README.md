@@ -47,7 +47,7 @@ The code is structured as follows:
 
 1. Clone the repository or download the code files.
 2. Make sure you have the required Python libraries installed.
-3. Place the dataset file (`spotify_dataset.json`) in the appropriate location (`C:\Users\naren\OneDrive\Documents\` in this case).
+3. Place the dataset file (`spotify_dataset.json`) in the appropriate location (`C:\Users\Mdmuz\OneDrive\Documents\` in this case).
 4. Run the code in your Python environment or IDE.
 5. The code will preprocess the data, train and evaluate the models, and display the results, including evaluation metrics and feature importance plots.
 
